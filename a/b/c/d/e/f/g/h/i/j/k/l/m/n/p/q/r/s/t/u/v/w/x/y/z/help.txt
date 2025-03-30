@@ -2,7 +2,7 @@
 
 
 
-
+======================================================================
 1. Introduction to Skid Stealer
 What is Exela Stealer?
 
@@ -15,7 +15,7 @@ Enhanced infection methods.
 Improved persistence and execution.
 
 New C2 functionalities for automated control.
-
+======================================================================
 2. Command and Control (C2) Center Capabilities
 Remote Execution: Ability to push commands to infected machines.
 
@@ -40,7 +40,7 @@ EXE Infector.
 C++ Global Injector.
 
 SUO and VCXPROJ injectors (targeting development environments).
-
+======================================================================
 3. Data Theft and Cryptocurrency Clipping
 Credential Harvesting:
 
@@ -53,7 +53,7 @@ Captures session tokens for platforms like Discord and browsers.
 Crypto Clipper Module:
 
 Replaces copied cryptocurrency addresses with attacker's address.
-
+======================================================================
 4. Malware Persistence and Spread
 Auto-Updating Mechanism:
 
@@ -91,7 +91,7 @@ Identifies Nitro subscription status
 Logs IP addresses and country locations
 
 Retrieves user IDs and profile pictures
-
+======================================================================
 Additional Features:
 
 Desktop Screenshot Capture – Can take and download screenshots of the victim's desktop
@@ -103,12 +103,12 @@ Multi-Webhook Data Exfiltration – Sends stolen data to multiple Discord webhoo
 Main Infection Files & Their Roles:
 Microsoft.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/q/r/s/t/u/v/w/x/y/z/Microsoft.exe
 
-Primary command and control interface
+Primary command and control interface (this NEEDS to be executed if you want to have it run the stealer on startup and maintain persistance on their machine)
 
 Handles downloading and maintaining persistence on infected machines
 
 Uses registry keys to ensure continued execution
-
+======================================================================
 system.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/q/r/s/t/u/v/w/x/y/z/system.exe
 
 Newest infection method
@@ -122,13 +122,13 @@ VCXPROJ Infector
 Imgui Infector
 
 The most up-to-date version of the malware
-
+======================================================================
 Windows Updator.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/q/r/s/t/u/v/w/x/y/z/Windows%20Updater.exe
 
-A newer, built version of Skid Stealer
+A newer, built version of Skid Stealer, same malware, different infector link.
 
 Further refines data exfiltration and infection mechanisms
-
+======================================================================
 
 
 
