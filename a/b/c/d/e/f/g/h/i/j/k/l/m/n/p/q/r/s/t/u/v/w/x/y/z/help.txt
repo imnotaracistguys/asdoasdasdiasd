@@ -1,0 +1,125 @@
+1. Introduction to Skid Stealer
+What is Exela Stealer?
+
+A known information stealer designed to extract sensitive data (passwords, cookies, tokens, etc.).
+
+Modifications in Skid Stealer:
+
+Enhanced infection methods.
+
+Improved persistence and execution.
+
+New C2 functionalities for automated control.
+
+2. Command and Control (C2) Center Capabilities
+Remote Execution: Ability to push commands to infected machines.
+
+Automated Infection:
+
+Distributes updated malware versions.
+
+Ensures execution upon system startup.
+
+Logging Features:
+
+Captures credentials, tokens, and cookies.
+
+Monitors browser activities.
+
+Logs system information.
+
+File Infectors:
+
+EXE Infector.
+
+C++ Global Injector.
+
+SUO and VCXPROJ injectors (targeting development environments).
+
+3. Data Theft and Cryptocurrency Clipping
+Credential Harvesting:
+
+Extracts usernames, passwords, and browser-stored credentials.
+
+Token and Cookie Logging:
+
+Captures session tokens for platforms like Discord and browsers.
+
+Crypto Clipper Module:
+
+Replaces copied cryptocurrency addresses with attacker's address.
+
+4. Malware Persistence and Spread
+Auto-Updating Mechanism:
+
+Older versions (Microsoft.exe) update upon system reboot.
+
+Latest versions (System.exe) ensure maximum control.
+
+Drive Infectors:
+
+Spreads via external and internal drives.
+
+Admin Privilege Escalation:
+
+Attempts to gain full system control.
+
+Highlighted Features of Skid Stealer
+Discord Log Features:
+
+Download all Discord tokens
+
+Download only valid Discord tokens
+
+Download valid tokens with email and phone verification
+
+Purge all invalid logs
+
+Data Collection Capabilities:
+
+Captures usernames, PC names, emails, and phone numbers
+
+Checks verification status (email & phone)
+
+Identifies Nitro subscription status
+
+Logs IP addresses and country locations
+
+Retrieves user IDs and profile pictures
+
+Additional Features:
+
+Desktop Screenshot Capture – Can take and download screenshots of the victim's desktop
+
+Credit Card Information Grabber – Attempts to extract stored payment details
+
+Multi-Webhook Data Exfiltration – Sends stolen data to multiple Discord webhooks for remote access
+
+Main Infection Files & Their Roles:
+Microsoft.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/q/r/s/t/u/v/w/x/y/z/Microsoft.exe
+
+Primary command and control interface
+
+Handles downloading and maintaining persistence on infected machines
+
+Uses registry keys to ensure continued execution
+
+system.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/q/r/s/t/u/v/w/x/y/z/system.exe
+
+Newest infection method
+
+Includes advanced infection techniques such as:
+
+EXE Infector
+
+VCXPROJ Infector
+
+Imgui Infector
+
+The most up-to-date version of the malware
+
+Windows Updator.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/q/r/s/t/u/v/w/x/y/z/Windows%20Updater.exe
+
+A newer, built version of Skid Stealer
+
+Further refines data exfiltration and infection mechanisms
