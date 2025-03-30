@@ -123,3 +123,7 @@ Windows Updator.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/
 A newer, built version of Skid Stealer
 
 Further refines data exfiltration and infection mechanisms
+
+
+
+
