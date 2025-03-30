@@ -117,18 +117,17 @@ Imgui Infector
 Needs to use "Microsoft.exe" at the top to maintain persistance on the machine.
 ======================================================================
 Windows Updator.exe – asdoasdasdiasd.vercel.app/a/b/c/d/e/f/g/h/i/j/k/l/m/n/p/q/r/s/t/u/v/w/x/y/z/Windows%20Updater.exe
-
 A newer, built version of Skid Stealer, same malware, different infector link.
 Further refines data exfiltration and infection mechanisms
 Newest infection method
+
 (This will only send stealer logs via webhook, not maintain persistance with the machine. If they turn off their computer you no longer have access to their PC.)
+
 Needs to use "Microsoft.exe" at the top to maintain persistance on the machine.
 Includes advanced infection techniques such as:
 
 EXE Infector
-
 VCXPROJ Infector
-
 Imgui Infector
 
 The most up-to-date version of the malware
